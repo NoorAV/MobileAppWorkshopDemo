@@ -5,7 +5,7 @@
 
 ### App Walk-though
 http://recordit.co/YBuYwiaxEV
-<img src="http://recordit.co/YBuYwiaxEV" width=200><br>
+
 
 
 ### Required User Stories
