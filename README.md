@@ -4,6 +4,7 @@
 `TODO://` This app allows the user to display a line of text of their choice on the screen with additional features such as changing the background and colour of the text.
 
 ### App Walk-though
+http://recordit.co/YBuYwiaxEV
 <img src="http://recordit.co/YBuYwiaxEV" width=200><br>
 
 
